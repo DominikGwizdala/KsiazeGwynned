@@ -28,9 +28,9 @@ Za pomocą, których może rekrutować wojska oraz ulepszać budowle.
  Język programowania:
 * C++
 ## Screenshots
-![scr1](screenshots/scr1.png)
-![scr2](screenshots/scr2.png)
-![scr3](screenshots/scr3.png)
+![scr1](Screenshots/scr1.png)
+![scr2](Screenshots/scr2.png)
+![scr3](Screenshots/scr3.png)
 
 ## Setup
  W celu uruchomienia aplikacji należy uruchomić plik "KsiazeGwynned.exe",  
